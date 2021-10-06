@@ -1,0 +1,8 @@
+making changes to this document for the first time.
+
+Now I am adding another line of code that should chage some of my outputs.
+
+
+The git dif is something that you will use inbetween commits.  So look here first.
+
+I'm going to continue to addd mre information but not going to do the computer save to test autosave, ish
